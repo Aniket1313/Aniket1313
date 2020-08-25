@@ -1,12 +1,5 @@
 ### Hi there 👋
-github profile markdown generator logo
-Github Profile README Generator
- Star this repo 995
- Fork on Github 120
- back to edit
- copied
- download
- preview
+
 <h1 align="center">Hi 👋, I'm Aniket Naik</h1>
 <h3 align="center">A young passionate Professional and a recent Engineering graduate from India</h3>
 
