@@ -7,8 +7,8 @@ Github Profile README Generator
  copied
  download
  preview
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate IT Professional from India</h3>
+<h1 align="center">Hi 👋, I'm Aniket Naik</h1>
+<h3 align="center">A young passionate Professional and a recent Engineering graduate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket1313" alt="aniket1313" /> </p>
 
