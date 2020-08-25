@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Aniket Naik
 
-<h1 align="center">Hi 👋, I'm Aniket Naik</h1>
+<!--<h1 align="center">Hi 👋, I'm Aniket Naik</h1> -->
 <h3 align="center">A young passionate Professional and a recent Engineering graduate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket1313" alt="aniket1313" /> </p>
