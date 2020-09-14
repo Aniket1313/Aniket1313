@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Kaggle,hackathons,ML projects**
 
-- 🤝 I’m looking for help with **Data Science & Machine Learning,**
+- 🤝 I’m looking for help with **Data Science & Machine Learning.**
 
 - 📫 How to reach me **naikaniket26@gmail.com**
 
