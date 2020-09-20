@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket1313" alt="aniket1313" /> </p>
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,Data Storytelling**
 
 - 👯 I’m looking to collaborate on **Kaggle,hackathons,ML projects**
 
-- 🤝 I’m looking for help with **Data Science & Machine Learning.**
+- 🤝 I’m looking for help with **Programming,Software Development,Data Science & Machine Learning.**
 
 - 📫 How to reach me **naikaniket26@gmail.com**
 
