@@ -2,7 +2,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Aniket Naik</h1> -->
 <h3 align="center">A young passionate Professional and a recent Engineering graduate based out of Mumbai,India</h3>
-<h4 align="center">My porfolio website : <a href="https://aniket1313.github.io/">Aniket1313</a></h4>
+<h4 align="center">My porfolio website : <a href="https://aniket1313.github.io/">Aniket1313.github.io</a></h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket1313" alt="aniket1313" /> </p>
