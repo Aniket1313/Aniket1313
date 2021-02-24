@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Kaggle,hackathons,ML projects**
 
-- 🤝 I’m looking for help with **Time Series data, Deep Learning **
+- 🤝 I’m looking for help with **Time Series data, Deep Learning**
 
 - 📫 How to reach me **naikaniket26@gmail.com**
 
