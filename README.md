@@ -1,5 +1,5 @@
 <h1>
-  👋🏻 Hi,  I'm Aniket from India 
+  👋🏻 Hi,  I'm Aniket from India.
 </h1>
 
 <div id="header" align="center">
@@ -24,7 +24,7 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Science+%26+Engineering+Student;Aspiring+Data+Engineer;Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Analyst+%26+Aspiring+Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
   
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
@@ -38,11 +38,11 @@
 
 > « The world is one big data problem! »
 
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in electronics engineering, I am currently working as a Analytics Engineering role at Kinesso.
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in electronics engineering, I am currently working in a Analytics Engineering role at Kinesso.
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for deriving insights.
 
-My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines,ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
+My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
 
 #### 🎓 Certifications :
 
