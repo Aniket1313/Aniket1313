@@ -1,10 +1,11 @@
 <h1>
-  👋🏻 Hi,  I'm Aniket from India.
+  👋🏻 Hi,  I'm Aniket from Mumbai India.
 </h1>
 
 <div id="header" align="center">
 <!--  --> <div id="header" align="center">
     <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" />
+ <!--   <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" /> -->
   </div> 
   <br>
   <div id="badges">
