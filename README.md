@@ -25,7 +25,7 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Avid+ Learner; Aspiring Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Avid+Learner; Aspiring Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
   
 
 </div>
@@ -44,9 +44,6 @@ My enthusiasm lies in bridging the gap between complex data and practical applic
 
 My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
 
-
-
-
 #### :hammer_and_wrench: Languages and Tools :
 
 ##### 💻 Programming : 
@@ -55,7 +52,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 <!-- ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F) -->
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=ffffff&labelColor=276DC3)
-<!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB) -->
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB) 
 
 ##### 💾 Databases : 
 
