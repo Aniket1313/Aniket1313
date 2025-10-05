@@ -25,12 +25,9 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Avid+ Learner; Aspiring Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
   
-<--
-  ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
-  [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Aniket1313?tab=followers)
--->
+
 </div>
 
 
@@ -48,9 +45,9 @@ My enthusiasm lies in bridging the gap between complex data and practical applic
 
 My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
 
-#### 🎓 Certifications :
+<--- #### 🎓 Certifications :
 
-<--- <div id="header" >
+ <div id="header" >
   <div id="badges">
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a16e1ccee0351de8aa3473f336d4e19318704a8f">
       <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
