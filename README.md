@@ -4,8 +4,8 @@
 
 <div id="header" align="center">
 <!--  --> <div id="header" align="center">
-    <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" />
- <!--   <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" /> -->
+    <!--    <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" />-->
+  <img src="https://github.com/Aniket1313/Aniket1313.github.io/blob/master/assets/Aniket_Banner.png" width="100%" /> 
   </div> 
   <br>
   <div id="badges">
