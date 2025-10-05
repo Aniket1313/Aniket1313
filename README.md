@@ -42,30 +42,8 @@ This quote encapsulates the reason and passion that has driven my journey to div
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for deriving insights.
 
 
-
 My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
 
-<--- #### 🎓 Certifications :
-
- <div id="header" >
-  <div id="badges">
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a16e1ccee0351de8aa3473f336d4e19318704a8f">
-      <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
-    </a>
-    <a href="https://www.freecodecamp.org/certification/magistral/machine-learning-with-python-v7">
-      <img src="https://img.shields.io/badge/freeCodeCamp%20Machine%20Learning-000000?style=flat&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23" alt="FreeCodeCamp"/>
-    </a>
-    <a href="https://www.datacamp.com/statement-of-accomplishment/track/2e70dcf23aaec624fcf404885f586c575f718c91">
-      <img src="https://img.shields.io/badge/DataCamp%20Data%20Scientist-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
-    </a>
-    <a href="https://certificates.cs50.io/12412c32-3309-47da-9176-0ca1a2bc353b.pdf?size=A4">
-      <img src="https://img.shields.io/badge/Harvard%20CS50%20WEB-000000?style=flat&logo=edx&logoColor=white&labelColor=0A0A23" alt="CS50"/>
-    </a>
-    <a href="https://www.coursera.org/account/accomplishments/verify/7HWKX2PPAA8H">
-      <img src="https://img.shields.io/badge/DeepLearning.AI%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
-    </a>
-   </div>
-</div> -->
 
 
 
