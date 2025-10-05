@@ -39,9 +39,11 @@
 
 > « The world is one big data problem! »
 
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in electronics engineering, I am currently working in a Analytics Engineering role at Kinesso.
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in electronics engineering and doing certifications in Data Science,I have around 5 years of work experience across Marketing,Adtech & Fintech domains. Recently I have joined a company which is a Financial Services based out of US.I work in the data strategy & Gen AI team for Marketing Analytics handling data analytics and data engineering tasks.
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for deriving insights.
+
+
 
 My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
 
@@ -84,7 +86,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
-<!-- ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8) -->
+ ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 
 ##### 🤖 Data & ML : 
@@ -94,7 +96,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
-![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+![Tableau](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 
 <!-- ##### 🌐 Web Dev : 
 
@@ -129,10 +131,11 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF)
 
----
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=de-zoomcamp-ui&theme=github_dark&hide_border=true)](https://github.com/Hamagistral/de-zoomcamp-ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=OnlineRetail-DataEng&theme=github_dark&hide_border=true)](https://lookerstudio.google.com/u/0/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=Azure-AW&theme=github_dark&hide_border=true)](https://github.com/Hamagistral/Azure-AW)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
+--->
