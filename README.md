@@ -46,7 +46,7 @@ My enthusiasm lies in bridging the gap between complex data and practical applic
 
 
 My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines, and ETL jobs on cloud platforms like AWS, and Azure. I'm also experienced with some web frameworks and libraries such as FastAPI, Flask, RESTful APIs, and Streamlit.
-
+<--
 #### 🎓 Certifications :
 
 <div id="header" >
@@ -69,7 +69,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
    </div>
 </div>
 
----
+-->
 
 #### :hammer_and_wrench: Languages and Tools :
 
