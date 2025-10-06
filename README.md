@@ -25,9 +25,6 @@
 
   <br>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Avid+Learner; Aspiring Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
-  
-
 </div>
 
 
